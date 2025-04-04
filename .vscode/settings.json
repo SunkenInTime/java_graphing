@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "GoodDrawGraph.jar"
+        "GoodDrawGraph.jar",
+        "GoodDrawGraph(1).jar"
     ]
 }
